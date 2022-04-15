@@ -1,0 +1,171 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: lime;
+  font-family: monospace;
+  font-style: oblique;
+
+}
+
+p {
+  color: magenta;
+  font-family: monospace;
+  position: absolute;
+  top: 500px;
+  right:500px;
+}
+
+img:hover {
+  transform: scaleX(-1);
+}
+
+.mydiv-1 img{
+position: absolute;
+top: 100px;
+right: 200px;
+width: 200px;
+height: 250px;
+}
+
+.mydiv-2 img{
+position: absolute;
+top: 260px;
+right: 190px;
+width: 100px;
+height: 230px;
+}
+
+.mydiv-3 iframe{
+position: absolute;
+top: 550px;
+right: 300px;
+width: 150px;
+height: 150px;
+}
+
+.mydiv-4 iframe{
+position: absolute;
+top: 300px;
+right: 600px;
+width: 200px;
+height: 200px;
+}
+
+.mydiv-5 img{
+position: absolute;
+top: 100px;
+right: 650px;
+width: 350px;
+height: 200px;
+}
+
+.mydiv-6 img{
+position: absolute;
+top: 100px;
+right: 650px;
+width: 350px;
+height: 200px;
+}
+
+.mydiv-7 img{
+position: absolute;
+top: 300px;
+right: 550px;
+width: 350px;
+height: 200px;
+}
+
+.mydiv-8 img{
+position: absolute;
+top: 240px;
+right: 150px;
+width: 350px;
+height: 200px;
+}
+
+.mydiv-9 iframe{
+position: absolute;
+top: 50px;
+right: 50px;
+width: 200px;
+height: 200px;
+}
+
+.mydiv-10 link{
+position: absolute;
+top: 200px;
+right: 200px;
+width: 100%;
+height: 100%;
+z-index: 1;
+}
+
+.mydiv-11 p{
+position: absolute;
+top: 600px;
+right: 700px;
+}
+
+.mydiv-12 p{
+position: absolute;
+top: 50px;
+right: 50px;
+}
+
+.mydiv-13 p{
+position: absolute;
+top: 200px;
+right: 1000px;
+}
+
+.mydiv-14 img{
+position: absolute;
+top: 380px;
+right: 800px;
+width: 100px;
+height: 220px;
+}
+
+.mydiv-15 link{
+position: absolute;
+top: 400px;
+right: 500px;
+width: 100%;
+height: 100%;
+z-index: 1;
+}
+.mydiv-16 img{
+position: absolute;
+top: 500px;
+right: 10px;
+width: 300px;
+height: 150px;
+}
+.mydiv-17 iframe{
+position: absolute;
+top: 260px;
+right: 80px;
+width: 100px;
+height: 100px;
+}
+.mydiv-18 p{
+position: absolute;
+top: 400px;
+right: 100px;
+}
+.mydiv-19 p{
+position: absolute;
+top: 420px;
+right: 100px;
+}
+.mydiv-20 iframe{
+position: absolute;
+top: 150px;
+right: 500px;
+width: 100px;
+height: 100px;
+}
+
+* {cursor: url(https://cur.cursors-4u.net/nature/nat-10/nat916.cur), auto !important;}
