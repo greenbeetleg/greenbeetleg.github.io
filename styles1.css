@@ -1,0 +1,133 @@
+body{
+  background: black;
+}
+p {
+  color: magenta;
+  font-family: monospace;
+}
+.mydiv-1 p{
+position: absolute;
+top: 50px;
+right: 900px;
+}
+.mydiv-2 p{
+position: absolute;
+top: 60px;
+right: 890px;
+}
+.mydiv-3 p{
+position: absolute;
+top: 70px;
+right: 810px;
+}
+.mydiv-4 p{
+position: absolute;
+top: 80px;
+right: 770px;
+}
+.mydiv-5 p{
+position: absolute;
+top: 90px;
+right: 730px;
+}
+.mydiv-6 p{
+position: absolute;
+top: 100px;
+right: 640px;
+}
+.mydiv-7 p{
+position: absolute;
+top: 110px;
+right: 600px;
+}
+.mydiv-8 p{
+position: absolute;
+top: 120px;
+right: 500px;
+}
+.mydiv-9 p{
+position: absolute;
+top: 130px;
+right: 400px;
+}
+.mydiv-10 p{
+position: absolute;
+top: 130px;
+right: 300px;
+}
+.mydiv-11 p{
+position: absolute;
+top: 140px;
+right: 300px;
+}
+.mydiv-12 p{
+position: absolute;
+top: 150px;
+right: 200px;
+}
+.mydiv-13 p{
+position: absolute;
+top: 160px;
+right: 200px;
+}
+.mydiv-14 p{
+position: absolute;
+top: 170px;
+right: 200px;
+}
+.mydiv-15 p{
+position: absolute;
+top: 180px;
+right: 440px;
+}
+.mydiv-16 p{
+position: absolute;
+top: 190px;
+right: 600px;
+}
+.mydiv-17 p{
+position: absolute;
+top: 200px;
+right: 670px;
+}
+.mydiv-18 p{
+position: absolute;
+top: 210px;
+right: 600px;
+}
+.mydiv-19 p{
+position: absolute;
+top: 220px;
+right: 800px;
+}
+.mydiv-20 p{
+position: absolute;
+top: 230px;
+right: 900px;
+}
+.mydiv-21 img{
+position: absolute;
+top: 10px;
+right: 300px;
+width: 400px;
+height: 700px;
+}
+.mydiv-22 iframe{
+position: absolute;
+top: 200px;
+right: 120px;
+width: 300px;
+height: 200px
+}
+.mydiv-23 iframe{
+position: absolute;
+top: 350px;
+right: 600px;
+width: 300px;
+height: 300px
+}
+.mydiv-24 link{
+  position: absolute;
+  top:100px;
+  right:300px;
+}
